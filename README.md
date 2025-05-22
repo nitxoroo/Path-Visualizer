@@ -52,8 +52,9 @@ src/
 └── App.jsx
 ```
 ##🙌 Acknowledgements
--Inspired by Clement Mihailescu's visualizer
--Thanks to open-source contributors in pathfinding and animation
+
+Inspired by Clement Mihailescu's visualizer
+Thanks to open-source contributors in pathfinding and animation
 
 ## FeedBack
 If you have any feedback, please reach out to me at nitin141020@gmail.com
