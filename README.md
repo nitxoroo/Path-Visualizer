@@ -54,6 +54,7 @@ src/
 ##🙌 Acknowledgements
 
 Inspired by Clement Mihailescu's visualizer
+
 Thanks to open-source contributors in pathfinding and animation
 
 ## FeedBack
