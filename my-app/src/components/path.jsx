@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Node from "./node";
-import './path.css';
+import './Path.css';
 import { dijkstra, getNodeInShortestpath } from "../Algorithm/dijkstra";
 import { Bfs, BfsNodeInShortestpath } from "../Algorithm/BFS";
 import { Dfs, DfsgetNodeInShortestpath } from "../Algorithm/DFS";
